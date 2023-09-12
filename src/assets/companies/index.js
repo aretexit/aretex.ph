@@ -6,7 +6,7 @@ import cellpark from "./cellpark.png";
 import dovetail from "./dovetail.png";
 import getcapital from "./getcapital.png";
 import IA from "./IA.png";
-import lake from "./lake.png";
+import lake from "./Lake.png";
 import leray from "./leray.png";
 import lonestar from "./lonestar.png";
 import marketboomer from "./marketboomer.png";
