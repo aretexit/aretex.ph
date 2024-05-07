@@ -26,12 +26,13 @@ const Footer = () => (
           Metro Manila, Philippines
         </p>
         <p className="font-poppins font-normal text-blue-900 mt-5 max-w-[500px] text-[14px] text-center">
-          info@aretex.com.au
+          careers@aretex.com.au
         </p>
         <p className="font-poppins font-normal text-blue-900 mt-5 max-w-[500px] text-[14px] text-center">
-          +63 995 792 1364
+          +63 9063735789
         </p>
       </div>
+
       
     </div>
 
